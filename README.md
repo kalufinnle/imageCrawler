@@ -17,7 +17,7 @@ A construction site image crawler built for my graduation project. Using code an
 ## Usage
 
 1. Modify `keywords.txt` to customize keywords.
-2. Modify [this line](https://github.com/y-wan/imageCrawler/blob/master/my_crawler.py#L53) to custom tags (default: `construction site`).
+2. Modify [this line](https://github.com/y-wan/imageCrawler/blob/master/my_crawler.py#L53) to customize tags (default: `construction site`).
 3. Run `python my_crawler.py`.
 
 Have fun! :sunglasses:
