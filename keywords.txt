@@ -1,0 +1,9 @@
+bulldozer
+concrete
+crane
+dump truck
+excavator
+formwork
+rebar
+scaffolding
+worker
